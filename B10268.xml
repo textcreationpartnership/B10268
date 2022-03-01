@@ -1,0 +1,494 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The reformation of the Church of Ireland, in the life and death of George Browne some time Arch-bishop of Dublin, being the first of the Romish clergy that adhered here in Ireland, to the reformation of the Protestant Church of England; being then reformed within this realm of Ireland. Anno 1551.</title>
+            <author>Ware, Robert, d. 1696.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 60 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B10268</idno>
+            <idno type="OCLC"> 80925340</idno>
+            <idno type="STC">Wing W851A</idno>
+            <idno type="STC">ESTC R230801</idno>
+            <idno type="EEBO-CITATION">80925340</idno>
+            <idno type="OCLC">ocm 80925340</idno>
+            <idno type="VID">192170</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B10268)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192170)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2901:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The reformation of the Church of Ireland, in the life and death of George Browne some time Arch-bishop of Dublin, being the first of the Romish clergy that adhered here in Ireland, to the reformation of the Protestant Church of England; being then reformed within this realm of Ireland. Anno 1551.</title>
+                  <author>Ware, Robert, d. 1696.</author>
+                  <author>Browne, George, d. 1556.</author>
+               </titleStmt>
+               <extent>23 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Jos. Ray ... for Jos. Howes ...,</publisher>
+                  <pubPlace>Dublin, :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Robert Ware by Wing.</note>
+                  <note>Reproduction of original in the Trinity College (Dublin, Ireland) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Browne, George, d. 1556.</term>
+               <term>Church of Ireland --  History --  Early works to 1800.</term>
+               <term>Church of Ireland --  Clergy --  Early works to 1800.</term>
+               <term>Clergy --  Ireland --  Biography --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:192170:1"/>
+            <pb facs="tcp:192170:1" rendition="simple:additions"/>
+            <p>THE REFORMATION OF THE CHURCH OF IRELAND, IN THE Life and Death of <hi>GEORGE BROWNE</hi> Some time ARCH-BISHOP OF DUBLIN, BEING The Firſt of the <hi>Romish</hi> Clergy that adhered here in <hi>Ireland,</hi> to the Reformation of the Proteſtant Church of <hi>England;</hi> being then Reformed within this Realm of <hi>Ireland. Anno</hi> 1551.</p>
+            <p>
+               <hi>Dublin,</hi> Printed by <hi>Joſ. Ray,</hi> at <hi>College-green,</hi> for <hi>Joſ. Howes</hi> Bookſeller, at the <hi>Kings Arms</hi> in <hi>Caſtle-ſtreet.</hi> 1681.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:192170:2"/>
+            <pb n="3" facs="tcp:192170:2"/>
+            <head>TO THE READER.</head>
+            <p>BEholding and taking into Conſideration the Conditi<g ref="char:EOLhyphen"/>on of the Proteſtant Religion at preſent, it cauſed me to recollect, and unite ſo many Collections as I could find amongſt my Manuſcripts for this purpoſe. Chiefly to ſet forth this ſmall Narrative of the Refor<g ref="char:EOLhyphen"/>mation of the Proteſtant Faith, firſt eſtablished within this Realm of <hi>Ireland;</hi> entituling the ſame, <hi>The Life and Death of GEORGE BROWNE, ſometime Arch<g ref="char:EOLhyphen"/>bishop of Dublin;</hi> as he was the firſt of the Clergy here in this Nation that adhered thereunto. Alſo to ſet forth <hi>Romes</hi> Contrivances, how she and her Emiſ<g ref="char:EOLhyphen"/>ſaries endeavoured to oppoſe both God and Majeſtrate, purpoſely to darken the Glorious Beams of the holy Goſ<g ref="char:EOLhyphen"/>pel, which at that time was but newly (like a Plant) ſprouting out of the Earth, recovering of its ſtrength, af<g ref="char:EOLhyphen"/>ter a hard and tedious winter ſeaſon, having met with many sharp Nips; yet, through Gods Providence, how it ga<g ref="char:EOLhyphen"/>thered ſtrength, and hath hitherto flourished in ſpight
+<pb n="4" facs="tcp:192170:3"/> of all evil Oppoſitions whatſoever, contrived by <hi>Rome</hi> and her Adherents, to depreſs the ſame. The Nar<g ref="char:EOLhyphen"/>rative will ſpeak for it ſelf, not bringing forth Rayling Accuſations, which too many do either in Pulpits or in Libels in theſe days, which doth but open a Gap for Satan and his Imps to divide Proteſtants, but plainly laying before you Hiſtory and Records, collected by wiſe and judicious men, whoſe Memorials to future Ages, give a ſecond Breathing, though dead, yet by their Works ſtill living.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:192170:3"/>
+            <head>The Reformation of the CHURCH of <hi>IRELAND,</hi> in the Life and Death of <hi>GEORGE BROWNE,</hi> ſometime Archbishop of <hi>Dublin, &amp;c.</hi>
+            </head>
+            <p>GEORGE BROWNE,<note place="margin">
+                  <hi>Geo. Browne</hi> his firſt Fun<g ref="char:EOLhyphen"/>ction, and when he was Conſecrated Archbishop of <hi>Dublin.</hi>
+               </note> by Birth an Englishman and of the Order of St. <hi>Auguſtine</hi> in <hi>London,</hi> who by ſpace of time became Provin<g ref="char:EOLhyphen"/>cial of the Fryars of the ſame Order in <hi>England,</hi> being a man of a meek and peaceable Spirit, upon the ſad Accident that befell <hi>John Allen</hi> his Predeceſſor, who had been Archbishop of <hi>Dublin,</hi> a De<g ref="char:EOLhyphen"/>ſcription of whom may at large be read not only in the Crhonicle called <hi>The Second Addition to</hi> Giraldus Cambrenſis <hi>of</hi> Ireland, but alſo in Sir <hi>James Wares</hi> Book titled <hi>De Praeſulibus Hiberniae,</hi>
+               <note place="margin">
+                  <hi>Vid.</hi> James Ware <hi>de</hi> Praeſulibus Hiberniae, <hi>page</hi> 119. &amp; Annales ejus, <hi>page</hi> 193.</note> 
+               <hi>pag.</hi> 118 <hi>&amp;</hi> 119. to whom we refer the Reader, where he may find that this <hi>George</hi> was pre<g ref="char:EOLhyphen"/>ferred to the Archiepiſcopal See of <hi>Dublin</hi> by King <hi>Henry</hi> the Eighth, and conſecrated before his Arrival into <hi>Ireland,</hi> by <hi>Thomas</hi> Archbiſhop of <hi>Can<g ref="char:EOLhyphen"/>terbury,</hi> two other Bishops aſſiſting him, <hi>viz. John</hi> then Bishop of <hi>Rocheſter</hi> and <hi>Nicholas</hi> then Bishop of <hi>Sarisbury,</hi> on the 19th of <hi>March, Anno</hi> 1535. <hi>Styl. Angl.</hi>
+            </p>
+            <p>The Reverend <hi>James Uſher</hi> late Primate of <hi>Armagh,</hi>
+               <note place="margin">Primate <hi>Usher</hi> his de<g ref="char:EOLhyphen"/>ſcription of this <hi>George Brovvne.</hi>
+               </note> amongſt his Me<g ref="char:EOLhyphen"/>morials of <hi>Ireland,</hi> gives this holy Father this Deſcription; <hi>George Browne</hi> a man of a cheerful Countenance, in his Acts and Deeds plain down right, to the Poor merciful and compaſſionate, pitying the ſtate and condition of the Souls of the people, adviſing them, when he was Provincial of the <hi>Auguſtine</hi> Order in <hi>England,</hi> to make their applications ſoly to Chriſt, which Advice coming to the Ears of <hi>Henry</hi> the 8th. he became a Favourite, who upon the deceaſe of <hi>John Allen</hi> late Archbiſhop of <hi>Dublin</hi> became his Succeſſor; with<g ref="char:EOLhyphen"/>in five years after that he had enjoyed that See, he (much about the time that King <hi>Henry</hi> the 8th. began to demolish the Priorys, Abbeys and Monaſte<g ref="char:EOLhyphen"/>rys formerly built by the <hi>Romiſh</hi> Clergy within theſe his Majeſties Domi<g ref="char:EOLhyphen"/>nions of <hi>England</hi> and <hi>Ireland</hi>) cauſed all Superſtitious Reliques and Images to be removed out of the two Cathedrals in <hi>Dublin,</hi> and out of the reſt of the Churches within his Dioceſs, he cauſed the Ten Commandments, the Lords Prayer and the Creed to be placed, being gilded and in Frames about the Altar in the Cathedral of <hi>Chriſt Church</hi> in <hi>Dublin,</hi> he was the firſt that turned from the <hi>Romiſh</hi> Religion of the Clergy here in <hi>Ireland,</hi> to em<g ref="char:EOLhyphen"/>brace the Reformation of the Church of <hi>England;</hi> for which Fact he was by
+<pb n="6" facs="tcp:192170:4"/> Queen <hi>Mary</hi> laid aſide, and his Temporality taken from him, yet he pati<g ref="char:EOLhyphen"/>ently endured Affliction for the Truth to the end.</p>
+            <p>Upon the Reformation of King <hi>Henry</hi> 8th. in <hi>England,</hi> and at his Re<g ref="char:EOLhyphen"/>nouncing the Papal Power or Supremacy of <hi>Rome,</hi> his Chief the Lord <hi>Tho<g ref="char:EOLhyphen"/>mas Cromwell</hi> then Lord Privy Seal wrote unto <hi>George Browne</hi> then Arch<g ref="char:EOLhyphen"/>bishop of <hi>Dublin,</hi> ſignifying from His Highneſs the King, (then terming the King by that Title) he was fallen abſolutely from <hi>Rome</hi> in Spiritual matters within his Dominion of <hi>England,</hi> and how it was his Royal Will and Plea<g ref="char:EOLhyphen"/>ſure to have his Subjects there in <hi>Ireland</hi> to obey his Commands as in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> nominating the ſaid <hi>George Browne</hi> Archbishop one of his Commiſſi<g ref="char:EOLhyphen"/>ners for the Execution thereof, who in a short ſpace of time wrote to the Lord Privy Seal, as follows:
+<floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>My moſt Honoured Lord,</salute>
+                     </opener>
+                     <p>YOur humble Servant receiving your Mandate, as one of His Highneſs's Commiſſioners,<note place="margin">
+                           <p>
+                              <hi>George Cromer</hi> then Arch<g ref="char:EOLhyphen"/>bishop of <hi>Ar<g ref="char:EOLhyphen"/>magh.</hi>
+                           </p>
+                           <p>Againſt the Supremacy of K. <hi>H.</hi> the 8th.</p>
+                           <p>
+                              <hi>Geo. Browne</hi> deſires a Par<g ref="char:EOLhyphen"/>liament to be in <hi>Ireland</hi> to confirm the Kings Supre<g ref="char:EOLhyphen"/>macy.</p>
+                           <p>
+                              <hi>Geo. Brownes</hi> complaint of the <hi>Irish</hi> Clergies Ig<g ref="char:EOLhyphen"/>norance.</p>
+                           <p>The zeal of the Commo<g ref="char:EOLhyphen"/>nalty of <hi>Ire<g ref="char:EOLhyphen"/>land.</hi>
+                           </p>
+                           <p>O <hi>Neale</hi> of the <hi>Irish</hi> Papiſts, a great Stick<g ref="char:EOLhyphen"/>ler for the Pope againſt the King.</p>
+                        </note> hath endeavoured almoſt to the danger and hazard of this temporal Life, to procure the Nobility and Gentry of this Nation to due Obedience, in owning of his Highneſs their Supream Head as well Spiritual as Temporal, and do find much oppugning therein, eſpecially by my Brother <hi>Ar<g ref="char:EOLhyphen"/>magh,</hi> who hath been the main oppugner; and ſo hath withdrawn moſt of his Suffragans and Clergy within his See and Juriſdiction, he made a Speech to them, laying a Curſe on the people whoſoever ſhould own his Highneſs Supre<g ref="char:EOLhyphen"/>macy; ſaying, that this Iſle, as it is in their <hi>Iriſh</hi> Chronicles, <hi>Inſula ſacra,</hi> be<g ref="char:EOLhyphen"/>longs to none but to the Biſhop of <hi>Rome,</hi> and that it was the Biſhop of <hi>Romes</hi> Predeceſſors gave it to the Kings Anceſtors. There be two Meſſengers by the Prieſts of <hi>Armagh,</hi> and by that Archbiſhop, now lately ſent to the Biſhop of <hi>Rome.</hi> Your Lordſhip may inform His Highneſs, that it is convenient to call a Parliament in this Nation, to paſs the Supremacy by Act; for they do not much matter His Highneſs's Commiſſion which your Lordship ſent us over. This Iſland hath been for a long time held in Ignorance by the <hi>Romish</hi> Orders; and as for their Secular Orders, they be in a manner as ignorant as the people, being not able to ſay Maſs, or pronounce the Words, they not knowing what they themſelves ſay in the <hi>Roman</hi> Tongue: the Common people of this Iſle are more zealous in their Blindneſs than the Saints and Martyrs were in the Truth at the beginning of the Goſpel. I ſend to you my very good Lord theſe things, that your Lordship and His Highneſs may conſult what is to be done. It is feared <hi>O Neal</hi> will be ordered by the Bishop of <hi>Rome</hi> to oppoſe your Lordships Order from the Kings Highneſs; for the Natives are much in Numbers within his Powers. I do pray the Lord Chriſt to defend your Lordship from your Ene<g ref="char:EOLhyphen"/>mies.</p>
+                     <closer>
+                        <dateline>Dublin <date>4. Kalend. <hi>Septembris, 1535.</hi>
+                           </date>
+                        </dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+            </p>
+            <pb n="7" facs="tcp:192170:4"/>
+            <p>The Year following a Parliament was called in <hi>Ireland,</hi> the Lord <hi>Leo<g ref="char:EOLhyphen"/>nard Grey</hi> being then King <hi>Henry</hi>'s Vice-Roy of that Nation, in which <hi>George Browne,</hi> then being not many Months above a Year in his Archie<g ref="char:EOLhyphen"/>piſcopal Chair in <hi>Dublin,</hi> ſtood up and made this short Speech following:
+<q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="speech">
+                           <head>My Lords and Gentry of this His Majeſties Realm of <hi>Ireland,</hi>
+                           </head>
+                           <p>BEhold,<note place="margin">
+                                 <hi>Geo. Browne</hi> the Arch<g ref="char:EOLhyphen"/>bishop of <hi>Dublin</hi> his Speech.</note> your Obedience to your King is the Obſerving of your God and Saviour Chriſt; for He, that High Prieſt of our Souls, paid Tribute to <hi>Ceſar</hi> (though no Chriſtian;) greater Ho<g ref="char:EOLhyphen"/>nour then ſurely is due to your Prince His Highneſs the King, and a Chriſtian one: <hi>Rome</hi> and her Biſhops in the Fathers days acknowledged Emperors, Kings and Princes to be Supream over their Dominions, nay Chriſts own Vicars: And it is much to the Biſhop of <hi>Romes</hi> ſhame, to deny what their precedent Biſhops owned; therefore His Highneſs claims but what he can juſtifie: The Biſhop <hi>Elutherius</hi> gave to St. <hi>Lucius</hi> the firſt Chriſtian King of the <hi>Britains;</hi> ſo that I ſhall without ſcrupling vote His Highneſs King <hi>Henry</hi> my Supream over Eccleſiaſtick matters as well as Temporal, and Head thereof, even of both Iſles <hi>England</hi> and <hi>Ireland,</hi> and that without Guilt of Conſcience or Sin to God; and he who will not paſs this Act, as I do, is no true Subject to His Highneſs.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </p>
+            <p>This Speech of <hi>George Brown</hi> ſtartled the other Bishops and Lords ſo, that at laſt through great difficulty it paſſed, upon which Speech Juſtice <hi>Bra<g ref="char:EOLhyphen"/>bazon</hi> ſeconded him, as appears by his Letter to the Lord <hi>Thomas Crom<g ref="char:EOLhyphen"/>well</hi> then Lord Privy Seal of <hi>England,</hi> which original is in that famous Li<g ref="char:EOLhyphen"/>brary of Sir <hi>Robert Cotton,</hi> out of which Sir <hi>James Ware,</hi> that learned Anti<g ref="char:EOLhyphen"/>quary, tranſcribed the ſame.</p>
+            <p>Within few years after that the Act of Supremacy had paſt in <hi>Ireland,</hi>
+               <note place="margin">
+                  <hi>Juſtice</hi> Bra<g ref="char:EOLhyphen"/>bazon <hi>ſecon<g ref="char:EOLhyphen"/>ded</hi> George Browne.</note> we do find by a Letter written by <hi>George Browne</hi> to the Lord <hi>Cromwell,</hi> complaining of the Clergy and how they fall off from what had paſt, and how the Bishop of <hi>Rome</hi> and <hi>Ireland</hi> had contrived matters againſt the then Reformation: Collected by Sir <hi>James Ware,</hi> out of an old Regiſtry ſome time in the cuſtody of <hi>Adam Loftus, Hugh Corwins</hi> Succeſſor, and alſo Arch<g ref="char:EOLhyphen"/>bishop of <hi>Dublin.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="8" facs="tcp:192170:5"/>
+                  <opener>
+                     <salute>Right Honourable and my ſingular good Lord,</salute>
+                  </opener>
+                  <p>
+                     <note place="margin">
+                        <hi>Geo. Brovvne</hi> his complaint to the Lord Privy Seal of the Unſted<g ref="char:EOLhyphen"/>faſtneſs of the then <hi>Irish</hi> Clergy.</note>I Acknowledge my bounden Duty to your Lordſhips Good will to me, next to my Saviour Chriſts, for the Place I now poſſeſs; I pray God give me his Grace to execute the ſame to his Glory and His Highneſs Honour, with your Lordſhips Inſtructions. The People of this Nation be zea<g ref="char:EOLhyphen"/>lous, yet blind and unknowing; moſt of the Clergy, as your Lordship hath had from me before, being ignorant, and not able to ſpeak right Words in the Maſs or Liturgy, as being not skilled in the <hi>Latin Grammar;</hi> ſo that a Bird may be taught to ſpeak with as much ſenſe as ſeveral of them do in this Country. Theſe ſorts, though not Scholars, yet crafty to cozen the poor Common people, and to diſſuade them from following His Highneſs Orders: <hi>George</hi> my Brother of <hi>Ar<g ref="char:EOLhyphen"/>magh</hi> doth underhand occaſion Quarrels, and is not active to execute His Highneſs's Orders in his Dioceſs.</p>
+                  <p>
+                     <note place="margin">His Com<g ref="char:EOLhyphen"/>plaint of Ima<g ref="char:EOLhyphen"/>ges and Re<g ref="char:EOLhyphen"/>liques.</note>I have obſerved your Lordſhips Letter of Commiſſion, and do find ſeveral of my Pupils leave me for ſo doing. I will not put others in their Livings till I do know your Lordſhips Pleaſure; for it is meet I acquaint you firſt, the <hi>Romiſh</hi> Reliques and Images of both my Cathedrals in <hi>Dublin,</hi> of the <hi>Holy Trinity</hi> and of St. <hi>Patricks,</hi> took off the Common people from the true Worſhip, but the Prior and the Dean find them ſo ſweet for their Gain, that they heed not my Words: there<g ref="char:EOLhyphen"/>fore ſend in your Lordſhips next to me an Order more full, and a Chide to them and their Canons, that they might be removed.<note place="margin">His Com<g ref="char:EOLhyphen"/>plaint of the Prior of the <hi>Holy Trinity</hi> and Dean of St. <hi>Patricks</hi> in <hi>Dublin,</hi> and how the <hi>Irish</hi> hate the Lord Privy Seal.</note> Let the Order be, that the Chief Governours may aſſiſt me in it. The Prior and Dean have written to <hi>Rome</hi> to be encouraged, and if it be not hindred before they have a Mandate from the Biſhop of <hi>Rome,</hi> the People will be bold, and then tugg long before His Highneſs can ſubmit them to His Graces Orders. The Country Folk here much hate your Lordſhip, and deſpitefully call you in their <hi>Iriſh</hi> Tongue the <hi>Blackſmiths Son.</hi>
+                  </p>
+                  <pb n="9" facs="tcp:192170:5"/>
+                  <p>The Duke of <hi>Norfolk</hi> is by <hi>Armagh,</hi>
+                     <note place="margin">The Duke of <hi>Norfolk</hi> and the <hi>Irish</hi> com<g ref="char:EOLhyphen"/>bine together</note> and that Clergy de<g ref="char:EOLhyphen"/>ſired to aſſiſt them not to ſuffer his Highneſs to alter Church Rules here in <hi>Ireland:</hi> as a Friend I deſire your Lordſhip to look to your Noble Perſon; for <hi>Rome</hi> hath a great kindneſs for that Duke (for it is ſo talked here) and will reward him and his Children. <hi>Rome</hi> hath great Favours for this Nation, purpoſely to oppoſe His Highneſs; and ſo have got,<note place="margin">
+                        <hi>Rome</hi>'s Indul<g ref="char:EOLhyphen"/>gence to Re<g ref="char:EOLhyphen"/>bel in <hi>Ireland.</hi>
+                     </note> ſince the Act paſſed, great Indulgences for Rebellion, therefore my hopes is loſt, yet my Zeal is to do according to your Lord<g ref="char:EOLhyphen"/>ſhips Orders. God keep your Lordſhip from your Enemies here and in <hi>England. Dublin</hi> the 3d. Kalends of <hi>April.</hi> 1538.</p>
+                  <closer>
+                     <signed>Your Lordships at Commandment, <hi>George Browne.</hi>
+                     </signed>
+                  </closer>
+                  <trailer>
+                     <hi>To the Lord Privy Seal his Honourable good Lordships</hi> Ex Antographo.</trailer>
+               </body>
+            </floatingText>
+            <p>Soon after this Letter had been written,<note place="margin">A Bull from <hi>Rome,</hi> excom<g ref="char:EOLhyphen"/>municating thoſe who own'd the Kings Supre<g ref="char:EOLhyphen"/>macy.</note> News came to the Caſtle of <hi>Dublin,</hi> that the Bishop of <hi>Rome</hi> had ſent over a Bull of Excomunication of all thoſe who had or shall own the Kings Supremacy within the <hi>Irish</hi> Nation; which Cauſed the Archbishop to write accordingly.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Right Honourable,</salute>
+                  </opener>
+                  <p>
+                     <hi>MY Duty premiſed, it may pleaſe your Lordſhip to be adver<g ref="char:EOLhyphen"/>tiſed, ſithence my laſt there has come to <hi>Armagh</hi> and his Clergy a private Commiſſion from the Biſhop of <hi>Rome,</hi> prohibit<g ref="char:EOLhyphen"/>ing His Gratious Highneſs's people here in this Nation to own his Royal Supremacy, and joyning a Curſe to all them and theirs who ſhall not within forty days, confeſs to their Confeſſors, (after the publiſhing of it to them) that they have done amiſs in ſo do<g ref="char:EOLhyphen"/>ing: the ſubſtance, as our Secretary hath tranſlated the ſame in to <hi>Engliſh,</hi> is thus.</hi>
+                  </p>
+                  <p>
+                     <hi>I AB.</hi> from this preſent hour forward in the preſence of the holy Trinity of the Bleſſed Virgin Mother of God / of St. <hi>Peter,</hi>
+                     <note place="margin">The form of their Confeſ<g ref="char:EOLhyphen"/>ſion to their Popish Prieſt</note> of the holy Apoſtles / Archangels / Angels / Saints and of all the holy Hoſt of Heaven / shall and will be always obe<g ref="char:EOLhyphen"/>dient
+<pb n="10" facs="tcp:192170:6"/> to the holy See of St. <hi>Peter</hi> of <hi>Rome</hi> / and to my holy Lord the Pope of <hi>Rome</hi> and his Succeſſors / in all things as well ſpiritual as temporal / not conſenting in the leaſt that his Holi<g ref="char:EOLhyphen"/>neſs shall loſe the leaſt Title or Dignity belonging to the Pa<g ref="char:EOLhyphen"/>pacy of our Mother Church of <hi>Rome,</hi> or to the Regality of St. <hi>Peter.</hi>
+                  </p>
+                  <p>I do vow and ſwear to maintain / help and aſſiſt the juſt Laws / Liberties and Rights of the Mother Church of <hi>Rome.</hi>
+                  </p>
+                  <p>I do likewiſe promiſe to confer / defend and promote / if not perſonally / yet willingly / as in ability able / either by Advice / Skill / Eſtate / Mony or otherwiſe / the Church of <hi>Rome</hi> and her Laws againſt all whatſoever reſiſting the ſame.</p>
+                  <p>I further vow to oppugn all Hereticks / either in making or ſetting forth Edicts or Commands contrary to the Mother Church of <hi>Rome,</hi> and in caſe any ſuch to be moved or compoſed / to reſiſt it to the uttermoſt of my power / with the firſt conveni<g ref="char:EOLhyphen"/>ence and opportunity I can poſſible.</p>
+                  <p>I count and value all Acts made or to be made by Heretical Powers of no force or worth / or to be practiſed or obeyed by my ſelf / or by any other Son of the Mother Church of <hi>Rome.</hi>
+                  </p>
+                  <p>I do further declare him or her / Father or Mother / Brother or Siſter / Son or Daughter / Husband or Wife / Uncle or Aunt / Nephew or Neece / Kinſman or Kinswoman / Maſter or Mi<g ref="char:EOLhyphen"/>ſtreſs and all others / neareſt or deareſt Relations / Friend or Acquaintance whatſoever accurſed / that either do or shall hold for the time to come / any Eccleſiaſtical or Civil / above the Authority of the Mother Church / or that do or shall obey / for the time to come / any of her the Mother Churches Oppoſers or Enemies / or contrary to the ſame / of which I have here sworn unto: ſo God / the Bleſſed Virgin / St. <hi>Peter,</hi> St. <hi>Paul,</hi> and the holy Evangeliſts help / <hi>&amp;c.</hi>
+                  </p>
+                  <p>
+                     <note place="margin">The conditi<g ref="char:EOLhyphen"/>on of <hi>Ireland</hi> 
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n <hi>Anno</hi> 1538. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ow the Na<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ives begged <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>oreign Pow<g ref="char:EOLhyphen"/>ers againſt K. <hi>Henry.</hi>
+                     </note>
+                     <hi>His Highneſs Vice-Roy of this Nation is of little or no Power with the old Natives, therefore your Lordſhip will expect of me no more than I am able: This Nation is poor in Wealth, and not ſufficient now at preſent to oppoſe them: It is obſerved, that ever ſince His Highneſs's Anceſtors had this Nation in poſſeſſion, the old Natives have been craving Foreign Powers to Aſſiſt and Rule them; and now both <hi>Engliſh</hi> Race and <hi>Iriſh</hi> begin to op<g ref="char:EOLhyphen"/>poſe
+<pb n="11" facs="tcp:192170:6"/> your Lordſhips Orders, and do lay aſide their National old Quarrels, which I fear will, if any thing will, cauſe a Foreigner to invade this Nation, that will: I pray God I may be a falſe Pro<g ref="char:EOLhyphen"/>phet, yet your good Lordſhip muſt pardon mine opinion, for I write it to your Lordſhip as a Warning.</hi>
+                  </p>
+                  <closer>
+                     <dateline>
+                        <hi>Dublin</hi>
+                        <date>
+                           <hi>May 1538.</hi>
+                        </date>
+                     </dateline>
+                     <signed>
+                        <hi>Your humble and true Servant <hi>George Browne.</hi>
+                        </hi>
+                     </signed>
+                  </closer>
+                  <trailer>To the Lord Privy Seal with ſpeed.</trailer>
+               </body>
+            </floatingText>
+            <p>Upon the Feaſt of St. <hi>John Baptiſt</hi> following the ſaid <hi>George Browne</hi> ſeized on one <hi>Thady ô Birne,</hi> one of the Order of St. <hi>Francis,</hi>
+               <note place="margin">A Letter found in a Friers Pock<g ref="char:EOLhyphen"/>et.</note> who had Pa<g ref="char:EOLhyphen"/>pers from <hi>Rome,</hi> as follows, being ſent to the Lord Privy Seal by a Special Meſſenger.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>
+                        <hi>My Son</hi> ô Neal,</salute>
+                  </opener>
+                  <p>THou and thy Fathers were all along faithful to the Mother Church of <hi>Rome,</hi> His Holineſs <hi>Paul</hi> now Pope,<note place="margin">The Bishop of <hi>Metts</hi> Let<g ref="char:EOLhyphen"/>ter to ſtir up O <hi>Neal.</hi>
+                     </note> and the Council of the holy Fathers there, have lately found out a Prophecy, there remaining, of one St. <hi>Laſeria<g ref="char:EOLhyphen"/>nus</hi> an <hi>Irish</hi> Bishop of <hi>Cashell;</hi> wherein he ſaith, <hi>That the Mother Church of</hi> Rome <hi>falleth when in</hi> Ireland <hi>the Catholick Faith is overcome:</hi> There<g ref="char:EOLhyphen"/>fore for the Glory of the Mother Church, the Honour of St. <hi>Peter,</hi> and your own Secureneſs, ſuppreſs Hereſie and his Holineſs's Enemies; for when the <hi>Roman</hi> Faith there perisheth, the See of <hi>Rome</hi> falleth alſo: therefore the Council of Cardinals have thought fit to encourage your Country of <hi>Ireland,</hi> (as a ſacred Iſland) being certified, whilſt the Mother Church hath a Son of worth as your ſelf, and of thoſe that shall ſuccour you, and joyn therein,<note place="margin">As much as to ſay, <hi>Eng<g ref="char:EOLhyphen"/>land</hi> not ſafe whilſt Pope<g ref="char:EOLhyphen"/>ry is admitte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> in <hi>Ireland.</hi>
+                     </note> that she will never fall, but have more or leſs a holding in <hi>Britain,</hi> in ſpight of fate. Thus having obeyed the Order of the moſt ſacred Council, we recommend your Princely Perſon to the holy Trinity of the Bleſſed Virgin, of St. <hi>Peter,</hi> St. <hi>Paul,</hi> and of all the heavenly Hoſt of Heaven. <hi>Amen.</hi>
+                  </p>
+                  <closer>
+                     <dateline>
+                        <hi>Romae</hi> 
+                        <date>4 Kalend. <hi>May 1538.</hi>
+                        </date>
+                     </dateline>
+                     <signed>Epiſcopus Metenſis.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Upon further Examinations and ſearches made,<note place="margin">The Frier his punish<g ref="char:EOLhyphen"/>ment, and how he died before his execution.</note> this <hi>Thady ô Birne</hi> was pillar'd, and confined a priſoner until His Highneſs's further Order for his Tryal; but News coming over, that he muſt be Hanged, he made himſelf away in the Caſtle of <hi>Dublin;</hi> on the Eve of the Feaſt of St. <hi>James;</hi> yet his
+<pb n="12" facs="tcp:192170:7"/> dead Corps was carried to the <hi>Gallows Green</hi> and hanged up, and after there buried: but it was ſaid, by the Regeſter of St. <hi>Francis</hi> Monaſtry of <hi>Dublin,</hi> that they brought him from thence and, buried him in that Monaſtry.</p>
+            <p>
+               <note place="margin">
+                  <hi>Anno</hi> 1541. K. <hi>H.</hi> 8th. tur<g ref="char:EOLhyphen"/>neth the Pri<g ref="char:EOLhyphen"/>ory of the Bleſſed Tri<g ref="char:EOLhyphen"/>nity into a Deanery.</note>
+               <hi>George Brown</hi> having enjoyed the See of <hi>Dublin</hi> ſeven years or therea<g ref="char:EOLhyphen"/>bouts, King <hi>Henry</hi> the 8th, upon the Diſſolution of the Abbeys, Priorys and Monaſtrys here in <hi>Ireland,</hi> changed the Priory of the <hi>Bleſſed Trinity</hi> of <hi>Dublin</hi> into a Deanery and Chapters, ſince which Mutation, it hath ge<g ref="char:EOLhyphen"/>nerally bore the Name of <hi>Chriſt Church.</hi>
+            </p>
+            <p>Upon this Alteration, as it appears upon Record, this Cathedral con<g ref="char:EOLhyphen"/>ſiſted of a Dean and Chapters,<note place="margin">The alterati<g ref="char:EOLhyphen"/>ons upon this mutation of K.<hi>H.</hi> 8th. <hi>vid.</hi> James Ware <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Antiqui<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atibus &amp; de Praeſulibus Hiberniae.</note> a Chanter, a Treaſurer, ſix Vicars, Chorals, and two Singing Boys, allowing to them two 45 <hi>l.</hi> 6 <hi>s.</hi> 8 <hi>d. English, (du<g ref="char:EOLhyphen"/>rante bene placito)</hi> which Sum his Daughter Queen <hi>Mary</hi> confirmed for ever, having confirmed the Deanery, yet with Alterations, as she was a Romaniſt.</p>
+            <p>This Cathedral continued after this ſaid form (though not in Popery) even until King <hi>James</hi> his days, who then altered all what King <hi>Henry</hi> and his Daughter had done, and upon this ſecond Alteration he conſtituted a Dean, a Chanter, a Chancellor, a Treaſurer, three Prebends, ſix Vicars, Chorals and four Singing Boys,<note place="margin">What altera<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ions King <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ames</hi> made <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n this Cathe<g ref="char:EOLhyphen"/>dral.</note> ordering likewiſe that the Archdeacon of <hi>Dublin</hi> should have a Place in the Quire and a Vote in the Chapters. As for a fur<g ref="char:EOLhyphen"/>ther Deſcription of this Cathedral, we shal omit it; having reſerved the ſame for a large Narrative of the ſaid Cathedral, in a Book which is ready for the Preſs, entituled, <hi>The Antiquities of the City of</hi> Dublin, which wanteth only the Liberality of Lovers of Antiquities and Learning to contribute to the Cuts which are intended for the ſame.</p>
+            <p>
+               <note place="margin">When the Liturgy of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Church <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f <hi>England</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as firſt read <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Dublin.</hi>
+               </note>King <hi>Henry</hi> the 8th deceaſing, and his hopeful Offspring King <hi>Edward</hi> the 6th ſucceeding within a short ſpace after his Royal Fathers Death, that hopeful Prince (by the Advice of his Privy Council) began to conſider what good Effects the Tranſlation of the holy Bible had done, alſo how much it had enlightened the Underſtanding of his Subjects, they altered the Litur<g ref="char:EOLhyphen"/>gy Book from what King <hi>Henry</hi> had formerly printed and eſtablished, cau<g ref="char:EOLhyphen"/>ſing the ſame to be printed in <hi>English,</hi> commanding the ſame to be read and ſing in the ſeveral Cathedrals and Parish Churches of <hi>England,</hi> for the com<g ref="char:EOLhyphen"/>mon Benefit of the Nobility, Gentry and Commonalty; and that his Sub<g ref="char:EOLhyphen"/>jects of <hi>Ireland</hi> might likewiſe participate of the ſame Sweetneſs, he ſent over Orders to his Vice Roy Sir <hi>Anthony St. Leger,</hi> then being Lord Depu<g ref="char:EOLhyphen"/>ty of that Nation, that the ſame be forthwith there in <hi>Ireland</hi> obſerved with<g ref="char:EOLhyphen"/>in their ſeveral Bishopricks, Cathedrals and Parish Churches; which was firſt obſerved in <hi>Chriſt Church</hi> at <hi>Dublin,</hi> on the Feaſt of <hi>Eaſter</hi> 1551. be<g ref="char:EOLhyphen"/>fore the ſaid Sir <hi>Anthony, George Browne,</hi> and before the Mayor and Bayliffs of <hi>Dublin, John Lockwood</hi> being then Dean of the ſaid Cathedral.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <pb n="13" facs="tcp:192170:7"/>
+                        <head>The Tranſlation of the Copy of the Order for the Liturgy of the Church of <hi>England</hi> to be read in <hi>Ireland</hi> runs as follows.</head>
+                        <opener>
+                           <salute>
+                              <hi>EDWARD by the Grace of God, <hi>&amp;c.</hi>
+                              </hi>
+                              <note place="margin">K. <hi>Edvvards</hi> Order for the Liturgy of the Church of <hi>England</hi> to be read in <hi>Ireland.</hi>
+                              </note>
+                           </salute>
+                        </opener>
+                        <p>WHereas our Gratious Father / King <hi>Henry</hi> the <hi>8th.</hi> of happy memory / taking into conſideration the Bondage and heavy Yoak that his true and faithful Subjects ſuſtained under the Iurisdiction of the Bishop of <hi>Rome,</hi> as alſo the Ig<g ref="char:EOLhyphen"/>norance the Commonalty were in / how ſeveral fabulous Sto<g ref="char:EOLhyphen"/>ries and lying Wonders miſled our Subjects in both our Realms of <hi>England</hi> and <hi>Ireland,</hi> graſping thereby the means thereof into their hands / alſo diſpenſing with the Sins of our Nations by their Indulgences and Pardons for Gain / purpoſely to cherish all evil Vices / as Robberies / Rebellions / Thefts / Whoredoms / Blaſphemy / Idolatry / <hi>&amp;c.</hi> He / our Gra<g ref="char:EOLhyphen"/>tious Father King <hi>Henry</hi> of happy memory / hereupon diſſolved all Priorys / Monaſtrys / Abbeys / and other pretended Reli<g ref="char:EOLhyphen"/>gious Houſes / as being but Nurſeries for Vice and Luxury / more then for ſacred Learning; He therefore / that it might more plainly appear to the World / that thoſe Orders had kept the light of the Goſpel from his People / He thought it moſt fit and convenient for the Preſervation of their Souls and Bo<g ref="char:EOLhyphen"/>dies / that the holy Scriptures should be Tranſlated / Printed and placed in all Parish Churches within his Dominions for his faithful Subjeccts to encreaſe their Knowledge of God and of our Saviour Ieſus Chriſt. We therefore / for the general Benefit of our well-beloved Subjects Vnderſtandings / when ever aſſembled or met together in the ſaid ſeveral Parish Chur<g ref="char:EOLhyphen"/>ches / either to pray or to hear Prayers read / that they may the better joyn therein / in Vnity / Hearts and Voice / have cauſed the Liturgy and Prayers of the Church to be tranſlated into our Mother Tongue of this Realm of <hi>England,</hi> according to the Aſſembly of Divines lately met within the ſame for that pur<g ref="char:EOLhyphen"/>poſe. We therefore Will and Command / as alſo Authorize you Sir <hi>Anthony St. Leger</hi> Knight / our Vice-Roy of that our Kingdom of <hi>Ireland,</hi> to give ſpecial notice to all our Clergy / as well <hi>Archbishops, Bishops, Deans, Archdeacons,</hi> as other our <hi>Secular Parish Prieſts</hi> within that our ſaid Kingdom of <hi>Ireland,</hi> to perfect / execute and obey this our Royal Will &amp; Pleaſure accordingly.</p>
+                        <closer>
+                           <dateline>Given at our Mannor of <hi>Greenwich</hi>
+                              <date>
+                                 <hi>Febr.</hi> 6. in the Fifth year of our Reign.</date>
+                           </dateline>
+                           <signed>E. R.</signed>
+                        </closer>
+                        <trailer>To our truſty and well-beloved Sir <hi>Anth. St. Leger</hi> Knt. our Chief Governour of our Kingdom of <hi>Ireland,</hi>
+                        </trailer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <div type="part">
+               <pb n="14" facs="tcp:192170:8"/>
+               <head>Several Collections from <hi>Anthony Martin,</hi> formerly Biſhop of <hi>Meath.</hi>
+               </head>
+               <p>
+                  <note place="margin">An Aſſem<g ref="char:EOLhyphen"/>bly called on this Order of King <hi>Ed<g ref="char:EOLhyphen"/>wards.</hi>
+                  </note>BEfore Proclamations were iſſued out, Sir <hi>Anthony St. Leger,</hi> upon His Order, called an Aſſembly of the Archbiſhops and Bishops, together with other of the then Clergy of <hi>Ireland,</hi> in which Aſſembly he ſignified unto them as well His Majeſties Order aforeſaid, as alſo the Opinions of thoſe Bishops and Clergy of <hi>England,</hi> who had adhered unto the Order, ſaying, that it was His Majeſties Will and Pleaſure, conſenting unto their ſerious Conſiderations and Opinions, then acted and agreed on in <hi>England</hi> as to Eccleſiaſtical matters, that the ſame be in <hi>Ireland</hi> ſo likewiſe celebrated and performed.<note place="margin">Sir <hi>Anthony St. Leger</hi> his Arguments with <hi>George Dowdall,</hi> Ar<g ref="char:EOLhyphen"/>machanus.</note>
+               </p>
+               <p>Sir <hi>Anthony St. Leger</hi> having ſpoken to this effect, <hi>George Dowdall,</hi> who ſucceeded <hi>George Cromer</hi> in the Primacy of <hi>Armagh,</hi> ſtood up, who (through his <hi>Romish</hi> Zeal to the Pope) laboured with all his power and force to op<g ref="char:EOLhyphen"/>poſe the Liturgy of the Church, that it might not be read or ſung in the Church; ſaying, then shall every illiterate fellow read Service (or Maſs) as he in thoſe days termed the word Service.</p>
+               <p>
+                  <note place="margin">Sir <hi>Anthony</hi> his reply to <hi>George Dow<g ref="char:EOLhyphen"/>dall.</hi>
+                  </note>To this Saying of the Archbishops, Sir <hi>Anthony</hi> replyed, No, your Grace is miſtaken, for we have two many illiterate Prieſts amongſt us already, who neither can pronounce the <hi>Latine,</hi> nor know what it means, no more than the Common people that hear them; but when the people hear the Liturgy in <hi>Engliſh,</hi> they and the Prieſt will then underſtand what they pray for.</p>
+               <p>
+                  <note place="margin">Gerge Dowdall <hi>to Sir</hi> Anthony</note>Upon this Reply, <hi>George Dowdall</hi> bade Sir <hi>Anthony</hi> beware of the Cler<g ref="char:EOLhyphen"/>gies Curſe.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Sir</hi> Anthony <hi>to</hi> Geo. Dovv<g ref="char:EOLhyphen"/>dall.</note>Sir <hi>Anthony</hi> made anſwer, I fear no ſtrange Curſe, ſo long as I have the Bleſſing of that Church which I believe to be the true one.</p>
+               <p>The Archbiſhop again ſaid, Can there be a truer Church than the Church of Saint <hi>Peter,</hi>
+                  <note place="margin">
+                     <hi>George Dovv<g ref="char:EOLhyphen"/>dall</hi>'s Reply.</note> the Mother Church of <hi>Rome.</hi>
+               </p>
+               <p>
+                  <note place="margin">Sir <hi>Anthony</hi>'s Return.</note>Sir <hi>Anthony</hi> returned this anſwer, I thought we had been all of the Church of Chriſt; for he calls all true Believers in him his Church, and himſelf the Head thereof.</p>
+               <p>
+                  <note place="margin">George Dovv<g ref="char:EOLhyphen"/>dall.</note>The Archbishop replied, and is not St. <hi>Peters</hi> the Church of Chriſt.</p>
+               <p>
+                  <note place="margin">Sir <hi>Anthony.</hi>
+                  </note>Sir <hi>Anthony</hi> returned this Anſwer, St. <hi>Peter</hi> was a Member of Chriſt Church, but the Church was not St. <hi>Peters,</hi> neither was St. <hi>Peter</hi> but <hi>Chriſt</hi> the Head thereof.</p>
+               <pb n="15" facs="tcp:192170:8"/>
+               <p>Then <hi>George Dowdall</hi> the Primate of <hi>Armagh</hi> roſe up,<note place="margin">
+                     <hi>George Dovv<g ref="char:EOLhyphen"/>dall</hi> leaves the Aſſembly.</note> and ſeveral of the Suffragan Bishops under his Juriſdiction, ſaving only <hi>Edward Staples</hi> then Bi<g ref="char:EOLhyphen"/>shop of <hi>Meath,</hi> who tarried with the reſt of the Clergy then aſſembled, on the Kalends of <hi>March</hi> according to the old ſtile, 1551. but if we reaſon as from the Annunciation of our Lady, which was the 25th of <hi>March,</hi> it was 1550.</p>
+               <p>Sir <hi>Anthony</hi> then took up the Order,<note place="margin">
+                     <hi>Geo. Brovvne</hi> his Speech upon King <hi>Edvv.</hi> Order.</note> and held it forth to <hi>George Browne</hi> Archbishop of <hi>Dublin,</hi> who (ſtanding up) received it, ſaying; This Order, good Brethren, is from our Gracious King, and from the reſt of our Bre<g ref="char:EOLhyphen"/>thren, the Fathers and Clergy of <hi>England,</hi> who have conſulted herein, and compared the holy Scriptures with what they have done; unto whom I ſubmit, as Jeſus did to <hi>Caeſar,</hi> in all things juſt and lawful,<note place="margin">
+                     <hi>Geo. Brovvne</hi>'s Speech wrought on ſeveral of the <hi>Irish</hi> Bishops and Clergy to adhere to Proteſtaniſm <hi>Vid. Plura cum</hi> Ja. Waraeo <hi>in</hi> Praeſul. Hib. Sir <hi>Anthony</hi> recalled, and Sir <hi>James Crofts</hi> made Lord Deputy of <hi>Ireland. George Dovv<g ref="char:EOLhyphen"/>dall</hi> deprived of the Title of Primacy of all <hi>Ireland,</hi> and <hi>George Browne,</hi> though Archbishop of <hi>Dublin,</hi> en<g ref="char:EOLhyphen"/>joying that Title A preſident shewing how it lies in Kings to ex<g ref="char:EOLhyphen"/>pulſe and to Conſtitute Archbishops or Bishops.</note> making no que<g ref="char:EOLhyphen"/>ſtion why or wherefore, as We own Him our true and lawful King.</p>
+               <p>After this ſeveral of the meeker or moſt moderate of the Bishops and Clergy of <hi>Ireland</hi> cohered with <hi>George Browne</hi> the Archbishop of <hi>Dublin,</hi> amongſt whom <hi>Edward Staples</hi> Bishop of <hi>Meath,</hi> who was put out from his Bishoprick, for ſo doing, in Queen <hi>Mary</hi>'s days, on the 29th of <hi>June</hi> 1554. <hi>John Bale,</hi> who on the ſecond of <hi>February</hi> 1552. was Conſecrated Bishop of <hi>Oſſory</hi> for his fidelity, and afterwards by Queen <hi>Mary</hi> expulſed. Alſo <hi>Thomas Lancaſter</hi> Bishop of <hi>Kildare,</hi> who was at the ſame time put from his Bishoprick, with ſeveral others of the Clergy, being all expulſed upon Queen <hi>Maries</hi> coming to the Crown.</p>
+               <p>When theſe paſſages had paſſed, Sir <hi>Anthony</hi> was in a short time after re<g ref="char:EOLhyphen"/>called for <hi>England,</hi> and Sir <hi>James Crofts</hi> of <hi>Herefordshire</hi> Knight, placed Chief in his ſtead; who began his Government from the 29th of <hi>A<g ref="char:EOLhyphen"/>pril,</hi> 1551.</p>
+               <p>Sir <hi>James Crofts,</hi> upon his coming over, endeavoured much for the per<g ref="char:EOLhyphen"/>ſwading of <hi>George Dowdall</hi> to adhere to the Order aforeſaid; but <hi>Dowdall</hi> being obſtinate, his Majeſty and the Learned Privy Council then of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> (for his perverſneſs) upon the 20th. of <hi>October</hi> following, took away the Title of <hi>Primate</hi> of all <hi>Ireland</hi> from him, and conferred the ſame on <hi>George Browne</hi> then Archbishop of <hi>Dublin,</hi> and to his Succeſſors, by reaſon that he was the firſt of the <hi>Irish</hi> Bishops who embraced the Order for Eſta<g ref="char:EOLunhyphen"/>blishing of the <hi>English</hi> Liturgy and Reformation in <hi>Ireland;</hi> which place he enjoyed during the remainder of King <hi>Edward</hi>'s Reign, and for a cer<g ref="char:EOLhyphen"/>tain time after; as you shall know further in it due courſe and place.</p>
+               <p>Alterations following one after another, (even upon this Reformation of the Church of <hi>England</hi>) and the Title of Primacy being diſpoſed of, as we have already mentioned, unto <hi>George Brown</hi> aforeſaid; ſome Writers ſay<g ref="char:EOLhyphen"/>ing that <hi>George Dowdall</hi> was banished, others that he was not, but went vo<g ref="char:EOLhyphen"/>luntary of his own will; yet, not to diſpute the caſe, another Archbishop
+<pb n="16" facs="tcp:192170:9"/> was conſecrated in lieu of him, though then living; by which it was then held lawful: as alſo that conſtituting of Archbishops and Bishops was in the power of Kings, and not in the power of Popes, or of the Bishop of <hi>Rome,</hi> which would be much to the Abaſement of the Powers of the Crown of <hi>England</hi> ever to reſign, or to acknowledge to the contrary.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Hugh Goodacre</hi> conſecrated Archbishop of <hi>Armagh,</hi> though <hi>George Dovvdall</hi> was living.</note>
+                  <hi>Hugh Goodacre</hi> Bachelour of Divinity was conſecrated Archbishop of <hi>Armagh</hi> by the ſaid <hi>George Browne,</hi> together with <hi>John Bale</hi> Bishop of <hi>Oſſo<g ref="char:EOLhyphen"/>ry,</hi> (already mentioned) in <hi>Chriſt Church</hi> in <hi>Dublin,</hi> on the ſecond of <hi>Febru<g ref="char:EOLhyphen"/>ary, Anno</hi> 1552. <hi>Thomas</hi> Bishop of <hi>Kildare</hi> and <hi>Eugenius</hi> Bishop of <hi>Down</hi> and <hi>Connor</hi> aſſiſting him; yet notwithſtanding <hi>Hugh Goodacres</hi> Conſecra<g ref="char:EOLhyphen"/>tion, <hi>George Browne</hi> then held the Title of Primacy of all <hi>Ireland.</hi>
+               </p>
+               <p>
+                  <note place="margin">K. <hi>Edvvard</hi>'s Death alters what hath been done before.</note>This Reformation and Alteration having not time to ſettle, or to take root, it was ſoon quashed and pulled down, by that lamentable loſs of that hopeful Prince King <hi>Edward</hi> the Sixth, who died at <hi>Greenwich</hi> the 6th of <hi>June,</hi> 1553.</p>
+               <p>
+                  <note place="margin">The Lady <hi>Jane Gray</hi> and Q. <hi>Mary</hi> con<g ref="char:EOLhyphen"/>tend for the Crown.</note>Upon King <hi>Edward</hi>'s Deceaſe, the Council having met to conſult toge<g ref="char:EOLhyphen"/>ther upon the Affairs of theſe Dominions, as alſo how they might confirm and eſtablish what they had already ordered and enacted, as well in Eccleſi<g ref="char:EOLhyphen"/>aſtical matters as Temporal, a Diviſion ſoon ſprung up, ſome being for the Choice of the Lady <hi>Jane Gray,</hi> others for Queen <hi>Mary,</hi> at laſt upon con<g ref="char:EOLhyphen"/>cluſion <hi>Mary</hi> the Kings Siſter was voted Queen, upon the Propoſals and Pro<g ref="char:EOLhyphen"/>miſes which she made to the Council, to confirm all that had been perfected by her Father King <hi>Henry</hi> the 8th. and her Brother King <hi>Edward</hi> and his Honoured Council.</p>
+               <p>
+                  <note place="margin">Q. <hi>Mary</hi> re<g ref="char:EOLhyphen"/>calls what K. <hi>H.</hi> and K. <hi>E.</hi> had done.</note>After she had been crowned and enthroned, she, for the ſpace of three or four months, ſeemed moderate to the Proteſtant Reformers, yet all that while combining with <hi>Rome</hi> and her Emiſſaries; but having accomplished her Deſigns, she revoked her fair Promiſes, (which with Papiſts is a Rule) eſteeming it no ſin to break Contracts or Covenants with Hereticks and Proteſtants, numbred with ſuch ſort of people, eſpecially with Papiſts theſe promiſes vanished; and then began the <hi>Romiſh</hi> Church not only to undo what King <hi>Henry</hi> and his Son King <hi>Edward</hi> had reformed, but to proſecute the Reformers and Reformed with Fire and Faggot.</p>
+               <p>
+                  <note place="margin">Sir <hi>James Crofts</hi> recall'd and <hi>G. Dovv<g ref="char:EOLhyphen"/>dall</hi> reſtored.</note>But to our purpoſe, upon the 11th of <hi>November Anno</hi> 1553. she recalled Sir <hi>James Crofts,</hi> and ſent over Sir <hi>Anthony St. Leger</hi> Lord Deputy into <hi>Ireland.</hi> This Sir <hi>Anthony</hi> had not been half a year Chief Governour of <hi>Ireland,</hi> before Queen <hi>Mary</hi> revoked the Title of Primacy from <hi>George Browne,</hi> expulſing <hi>Hugh Goodacre</hi> out of the Archbishoprick of <hi>Armagh</hi> and recalling <hi>George Dowdall</hi> to his See, and reſtoring him to the Primacy of all <hi>Ireland,</hi> as formerly, which Title hath ever ſince ſtood firm in <hi>Armagh</hi>
+                  <pb n="17" facs="tcp:192170:9"/> without any Revocation, either by Queen <hi>Elizabeth,</hi> or by any of her Suc<g ref="char:EOLhyphen"/>ceſſors.</p>
+               <p>
+                  <hi>George Browne,</hi> upon this Revocation, was by <hi>George Dowdall</hi> expulſed,<note place="margin">George Browne <hi>by</hi> George Dowdall <hi>ex<g ref="char:EOLhyphen"/>pulſed.</hi>
+                  </note> and not thought fit to continue in his See of <hi>Dublin,</hi> as being a married man, and it is thought, had he not been married he had been expulſed, having ap<g ref="char:EOLhyphen"/>peared ſo much for the Reformation, in both theſe former Kings days, upon the expulſing of this <hi>George Browne,</hi> all the Temporalities belonging to the Archbishoprick were diſpoſed of unto <hi>Thomas Lockwood</hi> then Dean of <hi>Chriſt Church</hi> in <hi>Dublin.</hi> It having been an antient Cuſtom ever upon the Tranſlation or Death of any of thoſe Archbishops, to depoſite the Tempora<g ref="char:EOLhyphen"/>lities into the hands of the Priors formerly of that Cathedral, when it was a Priory, and called by the name of the Cathedral of the <hi>Bleſſed Trinity.</hi> And it is obſervable, the laſt Prior became the firſt Dean upon the alteration as aforeſaid.</p>
+               <p>The See of <hi>Dublin</hi> after this Expulſion lay vacant for two years or there<g ref="char:EOLhyphen"/>abouts, until <hi>Hugh Corrin</hi> alias <hi>Corwine</hi> was placed therein:<note place="margin">
+                     <hi>Hugh Corwine</hi> ſucceeded <hi>G. Browne</hi> in the Archbishop<g ref="char:EOLhyphen"/>rick of <hi>Dublin</hi>
+                  </note> This <hi>Hugh</hi> was borne in <hi>Weſtmorland,</hi> a Doctor of the Law, being formerly Arch<g ref="char:EOLhyphen"/>deacon of <hi>Oxford</hi> and Dean of <hi>Hereford,</hi> he was conſecrated Archbishop of <hi>Dublin</hi> in the Cathedral of St. <hi>Pauls</hi> in <hi>London</hi> on the 8th. of <hi>September, Anno</hi> 1555. He after, upon the 13th. of the ſame Month, was by Queen <hi>Mary</hi> made <hi>Chancellor</hi> of <hi>Ireland,</hi> and upon the 25th. of the ſaid <hi>September,</hi> he received this Letter from the Queen, directed to <hi>Thomas Lockwood</hi> the Dean of <hi>Chriſt Church,</hi> it being an antient cuſtome formerly to recommend the Archbishop, whenſoever conſtituted for that See, to the Prior of that ſaid Cathedral.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>Queen <hi>Maries</hi> Letter to the Dean and Chapter of <hi>Chriſt Church</hi> in <hi>Dublin,</hi> to receive the Archbiſhop of <hi>Dublin</hi> honourably and with due reſpect. <hi>Copia vera, ex Libro nigro Sanctae Trinitatis Dublinii.</hi>
+                     </head>
+                     <opener>
+                        <salute>MARY the Queen.</salute>
+                     </opener>
+                     <p>TRuſty and wellbeloved, VVe greet you well; and foraſmuch as the Right Reverend Father in God, our Right truſty and wellbeloved Coun<g ref="char:EOLhyphen"/>ſellor the Archbiſhop of <hi>Dublin,</hi> being lately choſen for that See, repaireth ſpeedily to that our Realm of <hi>Ireland,</hi> as well to reſide upon the Cure of his Biſhoprick, which now of long time hath been deſtitute of a Ca<g ref="char:EOLhyphen"/>tholick Biſhop, as alſo to occupy the Office of our High Chancellor of that our Realm; albeit we have good hopes ye will in all things of your ſelves carry your ſelves towards him as becometh you, yet to the intent he
+<pb n="18" facs="tcp:192170:10"/> might the better govern the Charge committed unto him, to the Honour of Al<g ref="char:EOLhyphen"/>mighty God, and for the remain of our Service, VVe have thought fit to re<g ref="char:EOLhyphen"/>quire and charge you, that for your part ye do reverently receive him, honour and humbly obey him in all things, as appertaineth to your Duties, tending to Gods Glory, our Honour, and the Common weal of that your Realm; whereby ye ſhall pleaſe God and do us acceptable Service.</p>
+                     <closer>
+                        <dateline>
+                           <hi>Given under our Signet at our Mannor of</hi> Greenwich
+<date>
+                              <hi>the</hi> 25th <hi>of</hi> Septem<g ref="char:EOLhyphen"/>ber, <hi>in the ſecond and third years of our Reign.</hi>
+                           </date>
+                        </dateline>
+                     </closer>
+                     <trailer>
+                        <hi>To our truſty and well beloved the Dean and Chapter of the Cathedral of</hi> Chriſt Church <hi>within our Realm of</hi> Ireland.</trailer>
+                  </body>
+               </floatingText>
+               <p>I have here inſerted this Letter, upon two accounts, firſt as being a Re<g ref="char:EOLhyphen"/>cord remaining in the Cathedral;<note place="margin">This decides the Contro<g ref="char:EOLhyphen"/>verſie be<g ref="char:EOLhyphen"/>tween the Dean and the Archbishop lately ſet on foot.</note> ſecondly, becauſe there hath been ſome diſcourſe of late, whether the Archbishop of <hi>Dublin</hi> had power herein, or whether it was upon King <hi>Henrys</hi> Mutation made a Denery as <hi>Whitehall</hi> Chappel is, and no Chathedral; but by this Letter it shews it is both ſtill a Cathedral, and ſubject to the Archbishop of <hi>Dublin.</hi>
+               </p>
+               <p>
+                  <hi>George Browne</hi> lived not long after the Conſecration of this <hi>Hugh Cor<g ref="char:EOLhyphen"/>wine,</hi> yet I have amongſt my Manuſcripts a Writing of a Papiſt, who would fain have perſuaded the world,<note place="margin">
+                     <hi>Geo. Brovvne</hi>'s Death, and a Popish aſper<g ref="char:EOLhyphen"/>ſion wiped off.</note> that this <hi>George Browne</hi> dyed through Joy, having had a Bull from the Pope to be reſtored to his See of <hi>Dublin,</hi> which muſt needs be falſe, upon this account of Sir <hi>James Wares,</hi> who writeth theſe very words of him, in his Book titled <hi>De Praeſulibus Hiberniae,</hi> pag. 120. 1554. <hi>Circa id tempus Georgius Browneus (quod conjugatus eſſet) per Dow<g ref="char:EOLhyphen"/>dallum Archiepiſcopum Armachanum &amp; alios Delegatos ex Authoritatus eſt:</hi> otherwiſe the Pope, if he had granted ſuch a Bull, muſt likewiſe have diſ<g ref="char:EOLhyphen"/>penſed with his Marriage, it being contrary to the <hi>Romiſh</hi> Tenents for Bishops to marry. Having related thus much of <hi>George Browne,</hi> and of Eccleſiaſtical matters during his life, we shall proceed a little further con<g ref="char:EOLhyphen"/>cerning a short Sermon of his, preached unto the people in <hi>Chriſt Church,</hi> upon the firſt <hi>Sunday</hi> after <hi>Eaſter, anno</hi> 1551. being a Copy of the ſame given to Sir <hi>James Ware</hi> Knight, by <hi>Anthony Martin</hi> late Bishop of <hi>Meath,</hi> who formerly was Tutor to the ſaid Sir <hi>James Ware,</hi> when he was a Student in <hi>Trinity Colledge Dublin.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="19" facs="tcp:192170:10"/>
+               <epigraph>
+                  <bibl>
+                     <hi>The TEXT, Pſal. 119. Ver. 18.</hi>
+                  </bibl>
+                  <q>Open mine eyes, that I may ſee the wonders of thy Law.</q>
+               </epigraph>
+               <p>THe wonders of the Lord God have for a long time been hid from the children of Men,<note place="margin">
+                     <p>Let the Rea<g ref="char:EOLhyphen"/>der conſider the old man<g ref="char:EOLhyphen"/>ner of Prea<g ref="char:EOLhyphen"/>ching, and compare it to theſe days. <hi>Geo. Brovvne</hi> sheweth how <hi>Rome</hi> hath ab<g ref="char:EOLhyphen"/>ſconded the truth of the holy Goſpel from the people.</p>
+                     <p>How <hi>Rome</hi> will have falſe Teach<g ref="char:EOLhyphen"/>ers to delude us.</p>
+                     <p>This Pro<g ref="char:EOLhyphen"/>phecy is ful<g ref="char:EOLhyphen"/>filled by the Sectaries that are now in the Church amongſt us.</p>
+                  </note> wihich hath hapned by <hi>Rome</hi>'s not permitting the common people to read the holy Scriptures, for to prevent you, that you might not know the comfort of your Salvation, but to depend wholly on the Church of <hi>Rome,</hi> they will not permit it to be in any tongue but in the Latin, ſaying that Latin was the <hi>Roman</hi> tongue: But the wonderful God inſpired the holy A<g ref="char:EOLhyphen"/>poſtles with the knowledge of all Languages, that they might teach all people in their proper Tongue and Language, which cauſed our wiſe King <hi>Kenry,</hi> before his death, to have the holy Scriptures tranſcribed into the <hi>Engliſh</hi> Tongue, for the good of his Subjects, that their <hi>eyes may be opened to behold the wondrous things out of the Law of the Lord.</hi> But there are falſe Prophets at this inſtant, and will be to the end of the World, that ſhall deceive you with falſe Doctrines, expound<g ref="char:EOLhyphen"/>ing this Text, or that, purpoſely to confound your under<g ref="char:EOLhyphen"/>ſtandings, and to lead you captive into a wilderneſs of Con<g ref="char:EOLhyphen"/>fuſion, whom you ſhall take as your friends, but they ſhall be your greateſt enemies; ſpeaking againſt the Tenents of <hi>Rome,</hi> and yet be ſet on by <hi>Rome;</hi> theſe ſhall be a rigid peo<g ref="char:EOLhyphen"/>ple full of fury and envy.</p>
+               <p>But to prevent theſe things that are to come, obſerve Chriſt and his Apoſtles; <hi>Let all things be done with decency, with mildneſs, and in order,</hi> fervently crying unto God, <hi>Open thou mine eyes, that I may behold the wondrous things out of thy Law,</hi> then ſhould ye rightly keep the Law and the Prophets. It is the part of a Prince to be wiſe,<note place="margin">K. <hi>Hen.</hi> 8th. his provi<g ref="char:EOLhyphen"/>dence to pro<g ref="char:EOLhyphen"/>vide for his Son <hi>Edvvard</hi> before his death.</note> for he hath a great Charge to Rule and Govern a Nation: Your late King foreſeeing <hi>Rome</hi> and her Pope's intentions, how that he intended to enſlave his Subjects, and to keep them in the ſtate of ignorance, con<g ref="char:EOLhyphen"/>ſulted with the Learned of his Realm, knowing that Youth
+<pb n="20" facs="tcp:192170:11"/> might quickly be wrought on, therefore he prepared before his death a wiſe and Learned ſort of Counſellors for his Sons Overſeers, not truſting to one or two, but to ſeveral, that he might the better Rule his people, whoſe eyes the Lord God Almighty hath opened betimes, to behold his <hi>wondrous works.</hi>
+               </p>
+               <p>
+                  <note place="margin">By the word eyes, is meant our under<g ref="char:EOLhyphen"/>ſtanding.</note>Though the words of my Text be plainly thus <hi>(Open thou mine eyes)</hi> the meaneſt of you that hear me have eyes, but the true meaning of the words is, Endue us with underſtand<g ref="char:EOLhyphen"/>ing; for a Fool hath eyes, and ſees men, women, beaſts, birds, and other things, but yet wants underſtanding: So when we ſay, <hi>Open thou our eyes,</hi> we deſire the Lord God to inſtruct and teach us the knowledge of his Laws.</p>
+               <p>
+                  <note place="margin">How the Pa<g ref="char:EOLhyphen"/>piſts eyes be blinded in worshiping Images.</note>When you were lately led in blindneſs, your eyes beheld the Images that then ſtood in ſeveral of the Monaſteries and Churches until they were removed; yet all this while were your underſtandings blinded, becauſe ye believed in them, and placed your truſt in them.</p>
+               <p>
+                  <note place="margin">The follies of ſuch as put confidence in them.</note>Suppoſe an Artiſt or Workman make an Image either of Man or Woman, and at laſt a Clergy-man of <hi>Rome</hi> give it ſuch a name, calling it St. <hi>Peter,</hi> or St. <hi>Paul,</hi> or St. <hi>Mary,</hi> or St. <hi>Anne;</hi> muſt not that man, though he behold his own handy-work, and knows in his heart that it was his own work, be blind, and void of reaſon and underſtanding of the Law of God, and of the <hi>wondrous things that are contained in the Law of the Lord?</hi> Yes, ſurely he muſt be blind, and void of Reaſon, and of the true Faith, that would worſhip the ſame.</p>
+               <p>
+                  <note place="margin">A good Ar<g ref="char:EOLhyphen"/>gument to confute Image-wor<g ref="char:EOLhyphen"/>shipers.</note>The Workman carved the Eyes, but theſe Eyes ſee not; he likewiſe carved the Ears, but they hear not; the Noſe, and it ſmells not; the Mouth, and it neither breaths or ſpeaks; the Hands, they feel not; the Feet, but they ſtand ſtock ſtill.</p>
+               <p>
+                  <note place="margin">Another good Argu<g ref="char:EOLhyphen"/>ment.</note>How therefore can your Prayers be acceptable unto this Image that ſees you not approaching towards it, that hears you not when you pray to it, that ſmells not the ſweet ſmells, be they of <hi>Myrrhe</hi> or <hi>Frankincenſe</hi> burning before it? How can it
+<pb n="21" facs="tcp:192170:11"/> abſolve you, when the mouth is notable to ſay, <hi>Thy ſins are for<g ref="char:EOLhyphen"/>given thee?</hi> And if you place a certain ſum of Money in the palm of the hand of that Image; come you again to mor<g ref="char:EOLhyphen"/>row, the Money, it is true, ſhall find a cuſtomer, but the Image never the wiſer, who took it; and if you deſire to have it come unto you, it cannot without help; therefore the Workman that made this Image, is as blind, as deaf, as dumb, and as void of ſenſe as the Image it ſelf, and ſo be ye all that do put your truſts in them.</p>
+               <p>Therefore of late new Artificers,<note place="margin">Pretty cheats to delude poor Souls. <hi>Viz.</hi> the Im<g ref="char:EOLhyphen"/>age of our Lady <hi>Lau<g ref="char:EOLhyphen"/>retta.</hi>
+                  </note> by ſprings have made ar<g ref="char:EOLhyphen"/>tificial ones, which for a certain time ſhall move, and ye ſhall believe it to be real and certain: But beware good people, for they be but lying wonders, purpoſely that ye may break the Law of God. And thus hath the Devil deviſed a lying wonder, that ye may be deluded to break the Law of the Lord, which is, <hi>Thou ſhalt not make unto thy ſelf any Graven Image.</hi> O Lord <hi>open thou our Eyes, our Ears, and our <g ref="char:V">Ʋ</g>nder<g ref="char:EOLhyphen"/>ſtanding, that we may behold the wondrous things that are in thy Law. The Law of God is an undefiled Law.</hi> Oh!<note place="margin">
+                     <p>A Prophecy of the Jeſuits, how all Schiſms shall come from, and by their means.</p>
+                     <p>This Pro<g ref="char:EOLhyphen"/>phecy is ful<g ref="char:EOLhyphen"/>filled in the ſtory of <hi>Heth,</hi> and <hi>Faithful Commine.</hi>
+                     </p>
+                  </note> why ſhould we be ſo wicked then as to defile that Law, which the Al<g ref="char:EOLhyphen"/>mighty God hath made ſo pure without blemiſh. <hi>Jeſus came to fulfil the Law, and not to aboliſh the Law.</hi> But there are a new fraternity of late ſprung up, who call themſelves <hi>Jeſuits,</hi> which will deceive many, who are much after the Scribes and Phariſees manner: Amongſt the Jews they ſhall ſtrive to a<g ref="char:EOLhyphen"/>boliſh the truth, and ſhall come very near to do it; for theſe ſorts will turn themſelves into ſeveral forms, with the Heathen, an Heatheniſt; with Atheiſts, an Atheiſt; with the Jews, a Jew; and with the Reformers, a Reformade, purpoſely to know your intentions, your minds, your hearts, and your in<g ref="char:EOLhyphen"/>clinations, and thereby bring you at laſt to be like the fool that <hi>ſaid in his heart there was no God.</hi> Theſe ſhall ſpread over the whole World, ſhall be admitted into the Council of Princes, and they never the wiſer; Charming of them, yea, making your Princes reveal their hearts, and the ſecrets there<g ref="char:EOLhyphen"/>in unto them, and yet they not perceive it, which will happen
+<pb n="22" facs="tcp:192170:12"/> from falling from the Law of God, by neglect of fulfilling of the Law of God, and by winking at their ſins; yet, in the end, God to juſtifie his Law, ſhall ſuddenly cut off this So<g ref="char:EOLhyphen"/>ciety even by the hands of thoſe who have moſt ſuccoured them, and made uſe of them; ſo that at the end they ſhall become odious to all Nations: They ſhall be worſe then Jews, having, no reſting place upon the Earth, and then ſhall a Jew have more favour then a Jeſuite. Now, to arm you all good Chriſtians againſt theſe things that are to come, leſt ye be led into temptation; Cry unto the Lord your God, and heartily pray that he would be ſo merciful unto you as to <hi>open the eyes of your underſtanding, that you may behold the wonders and plea<g ref="char:EOLhyphen"/>ſantneſs that is in his Law.</hi> Which God of his mercy grant that you may all do.</p>
+               <p>Thus concluding with the Acts and Deeds of this Reverend Father, we shall end with Queen <hi>Maries</hi> Deſigns, how she intended to have perſe<g ref="char:EOLhyphen"/>cuted the Proteſtants in <hi>Ireland;</hi> but by Providence prevented; as you shall further know by this following Relation, being averred by ſeveral ſufficient perſons, as well Eccleſiaſtical as Civil.</p>
+               <p>
+                  <note place="margin">How mira<g ref="char:EOLhyphen"/>culouſly God preſerved the Proteſtants in <hi>Ireland</hi> from perſe<g ref="char:EOLhyphen"/>cution in her days.</note>Queen <hi>Mary</hi> having dealt ſeverely with the Proteſtants in <hi>England,</hi> a<g ref="char:EOLhyphen"/>bout the latter end of her Reign, ſigned a Commiſſion for to take the fame courſe with them in <hi>Ireland,</hi> and to execute the ſame with greater force, she nominates Doctor <hi>Cole</hi> one of the Commiſſioners, ſending the Com<g ref="char:EOLhyphen"/>miſſion by this Doctor, who in his Journey coming to <hi>Cheſter,</hi> the Mayor of that City hearing that Her Majeſty was ſending a Meſſenger into <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and he being a Churchman waited on the Doctor, who in diſcourſe with the Mayor taketh out of a Cloak-bag a Leather Box, ſaying unto him, <hi>Here is a Commiſſion that ſhall laſh the Hereticks of</hi> Ireland, calling the Proteſtants by that title; The good Woman of the Houſe being well af<g ref="char:EOLhyphen"/>fected to the Proteſtant Religion, and and alſo having a Brother named <hi>John Edmonds</hi> of the ſame, then a Citizen in <hi>Dublin,</hi> was much troubled at the Doctors words; but watching her convenient time, whilſt the Mayor took his leave, and the Doctor complementing him down the ſtairs, she opens the Box and takes the Commiſſion out, placing in lieu thereof a Sheet of paper with a Pack of Cards, the Knave of Clubs faced uppermoſt, wrapt up. The Doctor coming up to his Chamber, ſuſpecting nothing of what
+<pb n="23" facs="tcp:192170:12"/> had been done, put up the Box as formerly. The next day, going to the Waterſide, wind and weather ſerving him, he ſails towards <hi>Ireland,</hi> and landed on the Seventh of <hi>October,</hi> 1558. at <hi>Dublin;</hi> then coming to the Caſtle, the Lord <hi>Fitz Walters</hi> being Lord Deputy ſent for him to come before him and the Privy Council, who coming in, after he had made a Speech relating upon what account he came over, he preſents the Box unto the Lord Deputy, who cauſing it to be opened, that the Secretary might read the Commiſſion, there was nothing ſave a pack of Cards with the Knave of Clubs uppermoſt, which not only ſtartled the Lord Deputy and Council, but the Doctor, who aſſured them he had a Commiſſion, but knew not how it was gone; then the Lord Deputy made anſwer, <hi>Let us have another Commiſſion, and we will ſhuffle the Cards in the mean while;</hi> The Doctor being troubled in his mind went away, and returned into <hi>England;</hi> and coming to the Court obtained another Commiſſion; but ſtaying for a wind at the Waterſide, news came unto him, that the Queen was dead, and thus God preſerved the Proteſtants in <hi>Ireland.</hi>
+               </p>
+               <p>This being a Copy of <hi>Richard</hi> Earl of <hi>Cork</hi> his Memorials, as alſo of <hi>Henry Uſher</hi> ſometime Lord Primate of <hi>Armagh,</hi> being alſo entred amongſt Sir <hi>James Wares</hi> Manuſcripts, who hath often heard the late <hi>James Usher,</hi> Nephew to the ſaid <hi>Henry,</hi> and alſo Primate of <hi>Armagh,</hi> averr the ſame, and wondred that Mr. <hi>Fox</hi> had not inſerted it in his <hi>Acts and Monuments;</hi> there is yet living a reverend Father of the Church, <hi>Henry</hi> now Lord Bishop of <hi>Meath,</hi> who can affirm this Relation from the ſaid <hi>James Usher</hi> late Lord Primate of all <hi>Ireland.</hi>
+               </p>
+               <p>Upon the recalling of the Lord <hi>Fitz Walters</hi> into <hi>England,</hi> the Queen <hi>Elizabeth</hi> by the Grace of God <hi>&amp;c.</hi> ſucceeding, diſcourſing with the ſaid Lord concerning ſeveral paſſages here in <hi>Ireland,</hi> amongſt other diſcourſes he related the aforeſaid paſſage that had hapned in <hi>Ireland,</hi> which ſo de<g ref="char:EOLhyphen"/>lighted the Queen, that Her Majeſty ſent for the good Woman, named <hi>Elizabeth Edmonds,</hi> by her Husband named <hi>Mattershad,</hi> and gave her a Pention of Forty pound <hi>durante vita,</hi> for ſaving her Proteſtant Subjects of <hi>Ireland.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
